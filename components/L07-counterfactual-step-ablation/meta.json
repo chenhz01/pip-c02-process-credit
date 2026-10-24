@@ -1,0 +1,9 @@
+{
+  "id": "L07",
+  "slug": "counterfactual-step-ablation",
+  "name": "步骤反事实消融",
+  "cluster": "过程信用",
+  "dir": "L07-counterfactual-step-ablation",
+  "loc": 29,
+  "chars": 834
+}

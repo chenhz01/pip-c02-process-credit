@@ -1,0 +1,9 @@
+{
+  "id": "L05",
+  "slug": "process-credit-assigner",
+  "name": "过程信用回摊",
+  "cluster": "过程信用",
+  "dir": "L05-process-credit-assigner",
+  "loc": 40,
+  "chars": 1115
+}
